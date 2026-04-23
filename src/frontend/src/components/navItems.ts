@@ -1,0 +1,88 @@
+import type { NavItem } from "../types";
+
+export const navItems: NavItem[] = [
+  {
+    id: "home",
+    path: "/",
+    title: "Home",
+    icon: "🏠",
+    description: "Overview and quick links",
+  },
+  {
+    id: "about",
+    path: "/about",
+    title: "About VIT-AP",
+    icon: "🏫",
+    description: "Overview, campus, and academic system",
+  },
+  {
+    id: "faqs",
+    path: "/faqs",
+    title: "FAQs",
+    icon: "❓",
+    description: "Common questions answered",
+  },
+  {
+    id: "academics",
+    path: "/academics",
+    title: "Academics",
+    icon: "📚",
+    description: "FFCS, credits, grading, and more",
+  },
+  {
+    id: "faculty",
+    path: "/faculty",
+    title: "Faculty & Subjects",
+    icon: "👨‍🏫",
+    description: "Subject difficulty and slot tips",
+  },
+  {
+    id: "hostel",
+    path: "/hostel",
+    title: "Hostel & Daily Life",
+    icon: "🛏️",
+    description: "Rooms, mess, facilities, routine",
+  },
+  {
+    id: "food",
+    path: "/food",
+    title: "Food & Essentials",
+    icon: "🍽️",
+    description: "Packing list, documents, tech, and campus food",
+  },
+  {
+    id: "survival",
+    path: "/survival",
+    title: "Survival Guides",
+    icon: "🧭",
+    description: "Exams, outing rules, mentoring, re-exams",
+  },
+  {
+    id: "portals",
+    path: "/portals",
+    title: "Systems & Portals",
+    icon: "💻",
+    description: "VTOP and attendance tracking",
+  },
+  {
+    id: "data",
+    path: "/data",
+    title: "Data & Insights",
+    icon: "📊",
+    description: "Cutoffs, placements, trends",
+  },
+  {
+    id: "resources",
+    path: "/resources",
+    title: "Resources",
+    icon: "📁",
+    description: "Notes, PYQs, useful links",
+  },
+  {
+    id: "tips",
+    path: "/tips",
+    title: "Hidden Tips",
+    icon: "💡",
+    description: "Things seniors wish they knew",
+  },
+];

@@ -1,0 +1,29 @@
+{
+  "overview": "A complete student-friendly informational website for VIT-AP university. Covers all 12 key sections including academics, hostel life, survival guides, and interactive tools like attendance/CGPA calculators — everything a VIT-AP student needs in one place.",
+  "features": [
+    "12 information sections covering every aspect of student life",
+    "Interactive attendance calculator with target percentage tracking",
+    "CGPA calculator with semester and cumulative averages",
+    "Bunk planner to maximize skippable classes safely",
+    "Collapsible sidebar navigation with mobile hamburger menu",
+    "Accordion-style FAQs grouped by category",
+    "Detailed academics guide covering FFCS, LTPC, grading, backlogs",
+    "Hostel, food, and daily life guides",
+    "VTOP portal usage guide",
+    "Placement data and admission cutoffs overview",
+    "Resources section with notes, PYQs, and useful links",
+    "Hidden rules and general tips section",
+    "Mobile responsive with clean, modern design"
+  ],
+  "category": "education",
+  "tags": [
+    "university",
+    "student",
+    "vit-ap",
+    "academics",
+    "calculator",
+    "guide",
+    "informational"
+  ],
+  "last_updated": "2026-04-23T18:52:39.775Z"
+}
