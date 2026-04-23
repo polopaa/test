@@ -10,7 +10,7 @@ import Academics from "./pages/Academics";
 import Data from "./pages/Data";
 import Faculty from "./pages/Faculty";
 import Faqs from "./pages/Faqs";
-import Food from "./pages/Food";
+import Food from "./pages/FoodData";
 import Home from "./pages/Home";
 import Hostel from "./pages/Hostel";
 import Portals from "./pages/Portals";
