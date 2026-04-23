@@ -49,11 +49,6 @@ const hostelRoute = createRoute({
   path: "/hostel",
   component: Hostel,
 });
-const foodRoute = createRoute({
-  getParentRoute: () => rootRoute,
-  path: "/food",
-  component: Food,
-});
 const survivalRoute = createRoute({
   getParentRoute: () => rootRoute,
   path: "/survival",
@@ -87,7 +82,6 @@ const routeTree = rootRoute.addChildren([
   academicsRoute,
   facultyRoute,
   hostelRoute,
-  foodRoute,
   survivalRoute,
   portalsRoute,
   dataRoute,
